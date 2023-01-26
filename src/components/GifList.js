@@ -7,7 +7,7 @@ function GifList({gifs}) {
     <div>
         <ul>
 			<li>
-				<img height="200px" src={url} alt="gif" />
+				<img height="210px" src={url} alt="gif" />
 			</li>
 		</ul>
     </div>
